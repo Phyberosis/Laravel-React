@@ -13,6 +13,8 @@ require('./bootstrap');
  */
 
 require('./components/Example');
-require('./components/CardWidget1');
+require('../matx/src/index');
 // require('./components/MatxHorizontalNav');
 // require('../matX/matx/MatxHorizontalNav/MatxHorizontalNav.jsx');
+
+alert('asdf')
