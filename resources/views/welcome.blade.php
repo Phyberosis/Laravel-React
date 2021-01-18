@@ -423,6 +423,12 @@
                     <div id="example" class="title m-b-md"> </div>
                 </div>
             </div>
+
+            <div class="row">
+                <div class="col text-center">
+                    <div id="CardWidget1"> </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>

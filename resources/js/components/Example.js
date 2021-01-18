@@ -6,7 +6,7 @@ import { Button } from '@material-ui/core';
 function Example() {
     return (
         <Button variant="contained" color="secondary">
-            MatX button
+            material theme button
         </Button>
     );
 }

@@ -9,7 +9,7 @@ https://getcomposer.org/doc/00-intro.md
 
 in powershell:
 
-$ composer global require laravel/installer
+$ composer global requirsnie laravel/installer
 $ laravel new ${name}
 $ cd ${name}
 
